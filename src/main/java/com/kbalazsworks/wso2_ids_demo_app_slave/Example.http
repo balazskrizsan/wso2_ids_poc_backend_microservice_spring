@@ -1,5 +1,0 @@
-
-GET http://localhost:8020/example
-headers:
-Authorization: Bearer d23ca6e9-e0db-370b-b283-490718788376
-accept: application/json
